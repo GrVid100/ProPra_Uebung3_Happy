@@ -2,7 +2,7 @@ Persona 1
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Robert Breuss | Robert studiert Informatik im vierten Semmester und hat schon
+| Robert Breuss image:5ac518b57a74af23008b4642-750-563.jpg[www.businessinsider.de] | Robert studiert Informatik im vierten Semmester und hat schon
 lange das Abgabe-System benutzt. Er hat schon viele Veranstaltungen
 ( mit AUAS abgeben können) belegt und deswegen verbraucht er immer mehr Zeit, um
 eine bestimmte Veranstaltungen zu finden:
@@ -20,7 +20,8 @@ Persona 2
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Maya | Maya studiert an der HHU im ersten Semmester und fängt an, das
+| Maya image:3,w=993,q=high,c=0.bild.jpg[]|
+Maya studiert an der HHU im ersten Semmester und fängt an, das
 AUAS kennen zu lernen. Es gibt immer Problem mit Syntax von Datei-Namen
 jedes Mal wenn sie die Aufgabe abgeben will. Manchmal hat sie nicht gemerkt, dass
 sie noch nicht erfolgreich abgegeben.
@@ -32,7 +33,7 @@ Persona 3
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Rose | Rose ist eine Korektorin für vielen Module an der HHU.
+| Rose image:a.jpg[Freenet] | Rose ist eine Korektorin für vielen Module an der HHU.
 Deswegen vergessen Sie manchmal, welche Module sie schon geaarbeit und welche noch
 nicht fertig hat.   | Rose will oft informiert werden, wie sieht den Zustand ihrer
 Arbeit aus, welche Übungsblätter sie arbeiten muss.
@@ -42,7 +43,8 @@ Persona 4
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Mukti | Mukti ist ein Korektor für vielen Module an der HHU. Er finde, dass die Interface von
+| Mukti
+image:download.jpeg[www.nssi.com]| Mukti ist ein Korektor für vielen Module an der HHU. Er finde, dass die Interface von
 der Webseite AUAS kompliziert zugeordnet wird. Deswegen verbraucht er immer viel
 Zeit, um den wünschen Übungsblätter zu finden.   | Er will die Interface ganz
 vereinfacht werden.
@@ -52,7 +54,7 @@ Persona 5
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Jack | Jack ist ein Organisator an der HHU. Jedes Mal wenn er die Studenten
+| Jack image:Student_shutterstock_366568778.jpg[Studentensteuererklaerung.de] | Jack ist ein Organisator an der HHU. Jedes Mal wenn er die Studenten
 abschätzen will, verbraucht er immer viel Zeit. | Er möchte, dass die AUAS Webseite
 die schönen Statistik der Punkte von Studenten gibt.
 |===
@@ -61,10 +63,9 @@ Persona 6
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Thomas Müller | Thomas arbeit schon lange als ein Organisator. Er ist sehr
+| Thomas Müller image:images.jpeg[The Teaching Professor]| Thomas arbeit schon lange als ein Organisator. Er ist sehr
 beschäftig und hat schon ein große Übungsblätter-datei im Computer( Er will
 online hochladen). Er will nicht viel Zeit verschwenden, dass jede Woche ein Übungsblatt hochladen muss | Er möchte,
 dass es ein "Online-Speicher" im AUAS, mit dem nach jeder Woche ein Übungsblatt davon
 automatisch herausgenommen wird.
 |===
-

@@ -1,0 +1,74 @@
+.Sarah Baldi
+|===
+|Name |Hintergrund |Ziel
+
+|Sarah Baldi (22)
+image:student3.jpg["bu.edu"]
+|Sarah ist Master Studentin der Informatik. Speziell interessiert sie sich für
+App Entwicklung.
+|Sarah ist es wichtig, dass Sie Übungsblätter mit wenigen clicks abgeben kann
+und dass Sie das Feedback der Korrektoren und die erreichte Punktezahl sieht.
+|===
+
+.Tom Müller
+|===
+|Name |Hintergrund |Ziel
+
+|Tom Müller (21)
+image:one-student.jpg["www.nssi.com"]
+|Tom ist Informatik Student und belegt dieses Semester die Veranstaltung
+Softwareentwickung im Team.
+|Tom ist es wichtig, dass das System schnell funktioniert. Auch möchte er
+immer eine klare Bestätigung über das abgegebene Blatt.
+|===
+
+.Franco Milic
+|===
+|Name |Hintergrund |Ziel
+
+|Franco Milic (25)
+image:student.jpg["www.vct.org"]
+|Franco ist Korrektor für die Veranstaltung Programmierung. Er hat sein Informatik
+Studium bald beendet.
+|Franco wünscht sich ein System wo Abgaben der Studierenden klar voneinander getrennt sind
+und er den Bearbeitungsstand vermerken kann.
+|===
+
+.Sebastian Kangler
+|===
+|Name |Hintergrund |Ziel
+
+|Sebastian Kangler (23)
+image:korrektor2.jpg["www.facultyfocus.com"]
+|Sebastian hat Softwareentwickung im Team schon gemacht und arbeitet dieses
+Semester als Korrektor. Ihm ist es wichtig, dass die Übungsbätter gut gekenzeichnet sind
+so, dass er sie einfach zuordnen kann.
+|"Im System möchte ich Übungsblätter klar voneinander trennen und herunterladen
+können"
+|===
+
+.Vanessa Pfaffenzeller
+|===
+|Name |Hintergrund |Ziel
+
+|Vanessa Pfaffenzeller (27)
+image:it-student.jpg["Noobpreneur.com"]
+|Auch Vanessa hat ihr Informatik Studium beendet und leitet die Übung für die
+Veranstaltung Bioinformatik.
+|"Es wäre nett wenn der Fortschritt der Korrektoren und Studenten
+graphisch angezeigt werden könnte."
+|===
+
+.Oliver Mertens
+|===
+|Name |Hintergrund |Ziel
+
+|Oliver Mertens (28)
+image:leiter.jpg["www.cquedu.au"]
+|Oliver hat sein Informatik Studium schon beendet und macht im Moment seinen
+Doktor im Bereich Machine Learning. Nebenbei arbeitet er als Übungsleiter für den
+die Veranstaltung Machine Learning.
+|"Ich möche die Übungsbätter fair unter die Korrektoren verteilen und deren Fortschritt
+verfolgen können. Es wäre nett wenn der Fortschritt der Korrektoren und Studenten
+graphisch angezeigt werden könnte."
+|===

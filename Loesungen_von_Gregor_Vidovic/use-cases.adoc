@@ -1,0 +1,22 @@
+## Use Case
+
+### Abgabe einer Lösung zu einer Aufgabe +
+Hauptdarsteller: Student +
+Das betreffende System: Abgabesystem der Universität +
+Zweck: Studenten wollen Übungsbätter online abgeben, um nicht
+für jede Abgabe zur Uni fahren zu müssen.
+
+### Ablauf
+Angenommen Student ist schon eingeloggt: +
+1. Student beantragte das Bearbeiten eines Übungsblatts.
+2. Das System gibt die Bearbeitung dieses Blattes frei. +
+3. Das System bietet für jede Aufgabe des Blattes die Möglichkeit
+der Abgabe einer Lösung. +
+4. Der Student wäht die entsprechenden Dateien aus. +
+5. Das System lädt die Dateien hoch. +
+6. Der Student beantragt das speichern der Lösung. +
+7. Das System speichert die Lösung.
+
+### Alternativer Ablauf +
+7a. Die Lösung konnte nicht gespeichert werden: +
+Das System fordert den Studenten auf die Lösung nochmal auszuwählen.

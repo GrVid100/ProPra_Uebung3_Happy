@@ -1,0 +1,52 @@
+Use-Stories:
+
+- Als Student möchte ich eine Korrektur meiner Abgabe kommentieren, weil ich
+für meine Abgabe erklären will.
+
+-- Am Ende gibt den Kommentar für Studierenden und Korrektoren sichtbar sein.
+
+- Als Student möchte ich per Email informiert werde, wann meine Abgabe ablaufen wird, weil
+ich viele Module zu besorgen habe.
+
+-- Am Ende wird eine Email vor dem Abgabedatum an Studierenden geschickt
+
+
+- Als Student möchte ich die Aufgabe-Datei direkt von AUAS herunterladen, nicht von ILIAS,
+weil es lange dauert.
+
+-- Am Ende gibt es die Aufgabe-Datei auf Auas, dass man direkt herunterladen kann.
+
+- Als Student möchte ich meine Zustand-Punkte ansehen, weil ich wissen möchte, ob
+ich schon die Klausurzulassung erreicht habe.
+
+-- Am Ende ist der Statistik von Punkte sichtbar auf AUAS
+
+- Als Korektor möchte ich das Feedback meiner Bewertung kommentieren, weil ich
+dem Studierenden etwas erläutern will.
+
+-- Am Ende gibt den Kommentar für alle sichtbar sein
+
+- Als Studierende möchte ich das Feedback über Übungsgruppe schicken, weil ich
+die Qualität der Übungsgruppe verbessern wird.
+
+-- 
+
+- Als Organisator möchte ich alle Korektoren nach "Wöchentliche Stunden"
+zugeordnet, weil ich wissen möchte, wer zu viel oder zu wenig arbeiten muss.
+
+-- Am Ende werden alle Korektoren nach "Wöchentliche Stunden" zugeordnet.
+
+- Als Admin möchte ich die Bewertung über Übungsgruppe als auch den Korrektoren
+ansehen.
+
+--
+
+- Als Student möchte ich ein Übungsblatt, die nicht bestanden hat, neueinreichen,
+weil ich noch einmal einreichen dürfen
+
+-- Am Ende gibt es noch ein Button, mit der die Studenten neueinreichen können.
+
+- Als Organisator möchte ich eine konkrete Statistik der Punkte jedem Student
+ansehen, weil er die Studenten abschätzen will
+
+--

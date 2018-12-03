@@ -1,0 +1,20 @@
+Use-Case:
+
+[cols="1,2"]
+|===
+|Name | Neueinreichung einer Abgabe
+|Aktor | Student Tom
+|Zweck | Tom will ein Übungsblatt, die noch nicht gut genug war,noch mal abgeben.
+|Ablauf | Angenommen Tom und Korrektor ist bereits eingeloggt: +
+1. Tom finde die Email von Korektor, der für ihn korrigiert hat. +
+2. Tom schicke eine Email mit neuem Datei an den Korrektor. +
+3. Der Korrektor bekommt den neuen Datei und korrigiert. +
+4. Der Korrektor Jens wählt aus der Übersicht von dem Blat, mitdem er gerade
+gearbeit hat, aus.
+5. Der Korrektor sucht die Abgabe von Tom und klickt auf dem Button : Bearbeiten
+6. Das System zeigt alle Informationen über Toms Abgabe.
+7. Der Korrektor schreibt die Bewertung und die Punkte dafür.
+8. Der Korrektor klickt auf dem Button : Alle Änderungen speichern
+9. Das System speichert alle Informationen.
+
+|===

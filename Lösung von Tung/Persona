@@ -1,0 +1,70 @@
+Persona 1
+[cols="1,2,1" options="header"]
+|===
+|Name |Hintergrund |Ziel
+| Robert Breuss | Robert studiert Informatik im vierten Semmester und hat schon
+lange das Abgabe-System benutzt. Er hat schon viele Veranstaltungen
+( mit AUAS abgeben können) belegt und deswegen verbraucht er immer mehr Zeit, um
+eine bestimmte Veranstaltungen zu finden:
+
+Er hat schon zweimal die Module Programierung
+(2016 und 2017) beleg, außerdem hat er noch fünf unterschiedliche Module noch.
+Alle haben mindesten 12 Blätter zum Abgabe.
+Es gibt einmal, dass er an falsche Module abgeben hat.    |
+Robert möchte richtig und schnell wie möglich seine wünschen Module finden
+|===
+
+
+Persona 2
+
+[cols="1,2,1" options="header"]
+|===
+|Name |Hintergrund |Ziel
+| Maya | Maya studiert an der HHU im ersten Semmester und fängt an, das
+AUAS kennen zu lernen. Es gibt immer Problem mit Syntax von Datei-Namen
+jedes Mal wenn sie die Aufgabe abgeben will. Manchmal hat sie nicht gemerkt, dass
+sie noch nicht erfolgreich abgegeben.
+ | Sie will eine richtig klar Fehlermeldung, wenn die Datei Problem gibt.
+Maya
+|===
+
+Persona 3
+[cols="1,2,1" options="header"]
+|===
+|Name |Hintergrund |Ziel
+| Rose | Rose ist eine Korektorin für vielen Module an der HHU.
+Deswegen vergessen Sie manchmal, welche Module sie schon geaarbeit und welche noch
+nicht fertig hat.   | Rose will oft informiert werden, wie sieht den Zustand ihrer
+Arbeit aus, welche Übungsblätter sie arbeiten muss.
+|===
+
+Persona 4
+[cols="1,2,1" options="header"]
+|===
+|Name |Hintergrund |Ziel
+| Mukti | Mukti ist ein Korektor für vielen Module an der HHU. Er finde, dass die Interface von
+der Webseite AUAS kompliziert zugeordnet wird. Deswegen verbraucht er immer viel
+Zeit, um den wünschen Übungsblätter zu finden.   | Er will die Interface ganz
+vereinfacht werden.
+|===
+
+Persona 5
+[cols="1,2,1" options="header"]
+|===
+|Name |Hintergrund |Ziel
+| Jack | Jack ist ein Organisator an der HHU. Jedes Mal wenn er die Studenten
+abschätzen will, verbraucht er immer viel Zeit. | Er möchte, dass die AUAS Webseite
+die schönen Statistik der Punkte von Studenten gibt.
+|===
+
+Persona 6
+[cols="1,2,1" options="header"]
+|===
+|Name |Hintergrund |Ziel
+| Thomas Müller | Thomas arbeit schon lange als ein Organisator. Er ist sehr
+beschäftig und hat schon ein große Übungsblätter-datei im Computer( Er will
+online hochladen). Er will nicht viel Zeit verschwenden, dass jede Woche ein Übungsblatt hochladen muss | Er möchte,
+dass es ein "Online-Speicher" im AUAS, mit dem nach jeder Woche ein Übungsblatt davon
+automatisch herausgenommen wird.
+|===
+

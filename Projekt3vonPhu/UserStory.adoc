@@ -1,0 +1,20 @@
+1. Als Organisator möchte ich eine schöne Userinterface, damit ich bei Benutzen ein besser Gefühl habe. +
+Am Ende sieht das System schöner aus.
+2. Als Studenten möchte ich direkt mit Korrektor korrespondieren können, damit die Korrektor wissen kann, wo ich Problemme habe. +
+Am Ende können die Korrektoren den Studenten sofort helfen.
+3. Als Organisator möchte ich das System mit Machine-Learning erweitern, damit das System mit Studenten selbst kommunizieren kann. +
+Am Ende kann ich das System bei Bedaft erweitern.
+4. Als Studierende möchte ich eine Benachrichtigung von der System bekommen, um die letzte Aktivität zu wissen. +
+Am Ende kann ich alle Änderung im Augen behalten.
+5. Als Organisator möchte ich einen besonderen Ordner erstellen, damit die hervorragende Ideen getrennt speichern kann. +
+Am Ende können die Studenten die gute Ideen anschauen.
+6. Als Studierende möchte ich eine Benachrichtigung bekommen, wenn die Übung bearbeitet wird. +
+Am Ende brauche ich nicht jeden Tag kontrollieren, ob das Blat schon korrigiert wurde.
+7. Als Studierende möchte ich eine Benachrichtigung bekommen, wie viele Punkte ich erreichen muss, um die Zulassung zu bekommen. +
+Am Ende kann ich meinen Vorschritt verfolgen.
+8. Als Organisator möchte ich mich auf der Admin-Seite anmelden, um die Korrektor hinzuzufügen oder zu löschen, um den Personan Situation aktuel zu halten. +
+Am Ende kann ich Person hinzufügen und löschen.
+9. Als Korrektor möchte ich mit andere Korrektoren chatten können, um mit andere Korrektoren zu kommunizieren +
+Am Ende kann ich Organisator Änderungen direkt über das System vermitteln oder die Übung verteilen.
+10. Als Organisator möchte ich die Funktion Report erstellen, damit Jemand sich über die Fehler von der Webseite informieren +
+Am Ende wird der Fehler sofort repariert.

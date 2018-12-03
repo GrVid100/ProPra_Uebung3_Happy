@@ -1,0 +1,69 @@
+.Toru Rusch(20)
+|===
+|Name |Hintergrund |Ziel
+
+a|image::Toru Rusch.jpg[float=center]
+Toru Rusch(20)
+
+|Er studiert Informatik im zweisten Semester an der HHU. Als Kind möchte er als Sortware-Entwickler werden.
+Er hat eine besondere Leidenschaft für Java.
+|Jede Woche muss er die Übungsblätter abgeben. Aber findet er bisschen langsam. Er möchte, dass die Webseite schneller laufen kann.
+
+|===
+
+.Guilia Salla(25)
+|===
+|Name |Hintergrund |Ziel
+
+a|image:Guilia Salla.jpg[float=center]
+Guilia Salla(25)
+|Sie ist Studentin in der Richtung Informatik an der HHU.
+Sie mag alle schöne Sachen.
+Sie möchte in der Zukunft Web-Entwickler werden.
+|Jede Woche muss sie auch die Übungsblätter abgeben. Sie findet, dass die Schnittstelle von der Webseite nicht so schön aussieht.
+Sie wünsche sich die Webseite, die schöner werden kann.
+|===
+
+.Rula Eckel(26)
+|===
+|Name |Hintergrund |Ziel
+
+a|image:Rula Eckel.jpg[float=center]
+Rula Eckel(26)
+|Sie studiert Master in der Richtung Informatik an der HHU. Neben dem Studium sind Sie auch Korrektor beim Modul Theorie-Informatik.
+|Jede Woche hat sie 15 Stunden für Korrektor. Sie möchte Ordner haben, wo sie und andere Korrektoren chatten können.
+
+|===
+
+.Valerian Daum(24)
+|===
+|Name |Hintergrund |Ziel
+
+a|image:Valerian Daum.jpg[float=center]
+Valerian Daum(24)
+|Er ist ein Student an der HHU. Er nimmt gerne an vielen Aktivitäten teil. Außerdem ist er einen guten Korrektor beim Modul Programmierung.
+|Also möchte er die Funktion Merken in der Übung haben. Dann braucht er nicht so viele Bewertungen zu schreiben und kann er Zeit sparen.
+
+|===
+
+.Marcell Borrmann(24)
+|===
+|Name |Hintergrund |Ziel
+
+a|image:Marcell Borrmann.jpg[float=center]
+Marcell Borrmann(24)
+|Er studiert als Doktor an der HHU. Er hat fast keine Zeit für anderen Aktivitäten, weil nebem Studium er ein Organisator im Fach Informatik ist.
+|Er findet, dass er zu viele unwichtige Sache(z.B Teilen die Aufgabe ... ) machen muss. Er wünsche, dass die unwichtige Sachen automatisch laufen können.
+
+|===
+
+.Secer Dettmer(24)
+|===
+|Name |Hintergrund |Ziel
+
+a|image:Secer Dettmer.jpg[float=center]
+Secer Dettmer(24)
+|Er ist ein Doktor. Er arbeitet auch im Siemens. Außerdem ist er einen Organisator an der HHU.
+|Also findet er, dass es zu viele Knopfe für ihn gibt. Er wünsche, dass es weniger sein können.
+
+|===

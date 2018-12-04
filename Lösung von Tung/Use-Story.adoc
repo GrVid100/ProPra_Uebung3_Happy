@@ -10,7 +10,6 @@ ich viele Module zu besorgen habe.
 
 -- Am Ende wird eine Email vor dem Abgabedatum an Studierenden geschickt
 
-
 - Als Student möchte ich die Aufgabe-Datei direkt von AUAS herunterladen, nicht von ILIAS,
 weil es lange dauert.
 
@@ -26,10 +25,11 @@ dem Studierenden etwas erläutern will.
 
 -- Am Ende gibt den Kommentar für alle sichtbar sein
 
-- Als Studierende möchte ich das Feedback über Übungsgruppe schicken, weil ich
+- Als Studierende möchte ich die Umfrage über Übungsgruppe schicken, weil ich
 die Qualität der Übungsgruppe verbessern wird.
 
--- 
+-- Am Ende gibt es eine veröffentliche Umfrage für Studierende, die sie Feedback
+schicken können.
 
 - Als Organisator möchte ich alle Korektoren nach "Wöchentliche Stunden"
 zugeordnet, weil ich wissen möchte, wer zu viel oder zu wenig arbeiten muss.
@@ -39,7 +39,7 @@ zugeordnet, weil ich wissen möchte, wer zu viel oder zu wenig arbeiten muss.
 - Als Admin möchte ich die Bewertung über Übungsgruppe als auch den Korrektoren
 ansehen.
 
---
+-- Am Ende muss die Bewertung über Übungsgruppe sichtbar sein
 
 - Als Student möchte ich ein Übungsblatt, die nicht bestanden hat, neueinreichen,
 weil ich noch einmal einreichen dürfen
@@ -47,6 +47,7 @@ weil ich noch einmal einreichen dürfen
 -- Am Ende gibt es noch ein Button, mit der die Studenten neueinreichen können.
 
 - Als Organisator möchte ich eine konkrete Statistik der Punkte jedem Student
-ansehen, weil er die Studenten abschätzen will
+ansehen, weil ich die Studenten abschätzen will
 
---
+-- Am Ende gibt es ein Button "Statistik" von Student, damit man die Punkte von
+ihm ansehen.

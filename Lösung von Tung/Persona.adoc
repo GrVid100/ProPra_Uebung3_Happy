@@ -43,8 +43,7 @@ Persona 4
 [cols="1,2,1" options="header"]
 |===
 |Name |Hintergrund |Ziel
-| Mukti
-image:download.jpeg[www.nssi.com]| Mukti ist ein Korektor für vielen Module an der HHU. Er finde, dass die Interface von
+| Mukti image:download.jpeg[www.nssi.com]| Mukti ist ein Korektor für vielen Module an der HHU. Er finde, dass die Interface von
 der Webseite AUAS kompliziert zugeordnet wird. Deswegen verbraucht er immer viel
 Zeit, um den wünschen Übungsblätter zu finden.   | Er will die Interface ganz
 vereinfacht werden.

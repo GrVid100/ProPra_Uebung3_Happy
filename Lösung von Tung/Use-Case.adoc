@@ -5,10 +5,14 @@ Use-Case:
 |Name | Neueinreichung einer Abgabe
 |Aktor | Student Tom
 |Zweck | Tom will ein Übungsblatt, die noch nicht gut genug war,noch mal abgeben.
-|Ablauf | Angenommen Tom und Korrektor ist bereits eingeloggt: +
+|Ablauf | Angenommen Tom ist bereits eingeloggt: +
+
 1. Tom finde die Email von Korektor, der für ihn korrigiert hat. +
 2. Tom schicke eine Email mit neuem Datei an den Korrektor. +
 3. Der Korrektor bekommt den neuen Datei und korrigiert. +
+
+          Angenommen Tom ist bereits eingeloggt: +
+
 4. Der Korrektor Jens wählt aus der Übersicht von dem Blat,
 mitdem er gerade gearbeit hat, aus. +
 5. Der Korrektor sucht die Abgabe von Tom und klickt auf dem Button : Bearbeiten +

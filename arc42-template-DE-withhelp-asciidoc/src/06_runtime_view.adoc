@@ -42,15 +42,20 @@ Nutzen Sie beispielsweise:
 
 ****
 
-=== _<Bezeichnung Laufzeitszenario 1>_
+=== _Online Abgabe_
 
-*  <hier Laufzeitdiagramm oder Ablaufbeschreibung einfügen>
-*  <hier Besonderheiten bei dem Zusammenspiel der Bausteine in diesem Szenario erläutern>
+*  Die Studierende laden die Abgabe an eigene Profile hoch und warten auf den
+Korrektoren, bis sie arbeiten können. Die Korrektoren wählen die bestimmten Blätter bzw
+jeden Student aus, laden alles runter und korrigieren. Danach schreiben die
+Korrektoren die Bewertung wieder auf und geben die Punkte. Dieses System läuft
+als ein Online-Datenbank zwischen die Studierende und die Korrektoren, Professoren.
 
-=== _<Bezeichnung Laufzeitszenario 2>_
+=== _Veranstaltungen belegen_
 
-...
+*  Die Studierende belegen eine bestimmte Veranstaltung. Das System speichert
+diese Informationen und können die Studierende die Lösung abgeben.
 
-=== _<Bezeichnung Laufzeitszenario n>_
+=== _Blätter anlegen_
 
-...
+*  Der Organisator legt ein neues Blatt an und das System muss dieses Blatt
+veröffentlichen. 

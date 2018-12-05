@@ -1,0 +1,78 @@
+## Use Case
+
+[cols="1,2"]
+|===
+|Name | Neueinreichung einer Abgabe
+|Aktor | Student Tom
+|Zweck | Tom will ein Übungsblatt, das nicht gut genug war, noch mal abgeben.
+|Ablauf | Angenommen Tom ist bereits eingeloggt: +
+
+1. Tom sieht die Email vom Korrektor, der das Blatt korrigiert hat. +
+2. Tom schickt eine Email mit neuen Dateien an Korrektor. +
+3. Der Korrektor bekommt die neuen Dateien und korrigiert die Neueinreichung. +
+
+          Angenommen Korrektor ist bereits eingeloggt: +
+
+4. Der Korrektor Jens navigiert zu der Übersicht aller Blätter. +
+5. Der Korrektor sucht die Abgabe von Tom aus und klickt das Button "Bearbeiten". +
+6. Das System zeigt alle Informationen über Toms Abgabe. +
+7. Der Korrektor schreibt die Bewertung und die Punkte. +
+8. Der Korrektor klickt das Button "Alle Änderungen speichern". +
+9. Das System speichert alle Informationen.
+
+|===
+
+## Use Case
+
+|===
+|Name |Abgabe einer Lösung zu einer Aufgabe +
+|Hauptdarsteller |Student +
+|Das betreffende System |Abgabesystem der Universität +
+|Zweck |Studenten wollen Übungsbätter online abgeben, um nicht
+für jede Abgabe zur Uni fahren zu müssen.
+
+|Ablauf
+|Angenommen Student ist schon eingeloggt: +
+
+1. Student beantragt das Bearbeiten eines Übungsblatts mit einem Klick
+auf den Button "Dieses Übungsblatt bearbeiten". +
+2. Das System gibt die Bearbeitung dieses Blattes frei und zeigt jede
+Aufgabe dieses Blattes an. +
+3. Das System bietet für jede Aufgabe des Blattes die Möglichkeit
+einer Abgabe der Lösung. +
+4. Der Student wäht mithilfe das Systems die entsprechenden Dateien aus. +
+5. Das System lädt die Dateien hoch. +
+6. Der Student beantragt das Speichern der Lösung mit einem Klick auf
+den Button "Lösung speichern". +
+7. Das System speichert die Lösung.
+
+|Alternativer Ablauf +
+| 7a. Die Lösung konnte nicht gespeichert werden: +
+Das System fordert den Studenten auf, die Lösung nochmal auszuwählen
+(wieder zu Schritt 4 des Ablaufs).
+
+|===
+
+## Use Case
+
+|===
+|Name |Anlegen eines Übungsblatts mit n Aufgaben
+|Aktor |Organisator +
+|Das betreffende System |Das Abgabe System der HHU +
+|Zweck |Übungsbätter werden freigeschaltet und Studenten können
+Übungsblätter abgeben +
+
+|Ablauf |
+Angenommen der Organisator ist bereits eingeloggt: +
+
+1. Der Organisator sieht in der Übersicht, ob das Übungsblatt schon freigeschaltet ist. +
+2. Der Organisator klickt auf den Button "neues Übungsblatt". +
+3. Er füllt die leere Box aus. +
+4. Er bestimmt das Datum der Freischaltung. +
+5. Er klickt auf den Button "Übungsblatt speichern". +
+6. Das System zeigt das Übungsblatt an. +
+7. Er kommt in das Übungsblatt rein. +
+8. Er fügt die n Aufgaben hinzu. +
+9. Das System macht das Übungblatt für Studenten verfügbar.
+
+|===

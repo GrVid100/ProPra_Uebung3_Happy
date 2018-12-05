@@ -1,53 +1,45 @@
-Use-Stories:
+## User Stories
 
-- Als Student möchte ich eine Korrektur meiner Abgabe kommentieren, weil ich
-für meine Abgabe erklären will.
 
--- Am Ende gibt den Kommentar für Studierenden und Korrektoren sichtbar sein.
+1. Als Student möchte ich eine Korrektur meiner Abgabe kommentieren können,
+weil ich meine Lösungen erklären will. +
+Akzeptanzkriterium: Am Ende ist der Kommentar für Studenten und Korrektoren sichtbar.
 
-- Als Student möchte ich per Email informiert werde, wann meine Abgabe ablaufen wird, weil
-ich viele Module zu besorgen habe.
 
--- Am Ende wird eine Email vor dem Abgabedatum an Studierenden geschickt
+2. Da ich viele Module belege, möchte ich als Student per Email informiert werden,
+bis wann ich ein Blatt abgeben muss. +
+Akzeptanzkriterium: Am Ende wird eine Email über das Abgabedatum an Studenten geschickt.
 
-- Als Student möchte ich die Aufgabe-Datei direkt von AUAS herunterladen, nicht von ILIAS,
-weil es lange dauert.
+3. Als Student möchte ich die Aufgabe-Datei direkt über AUAS herunterladen und nicht über ILIAS,
+da es zu lange dauert. +
+Akzeptanzkriterium: Am Ende gibt es die Aufgabe-Datei im AUAS, wo man sie direkt herunterladen kann.
 
--- Am Ende gibt es die Aufgabe-Datei auf Auas, dass man direkt herunterladen kann.
+4. Als Student möchte ich meinen Punktestand sehen, weil ich wissen möchte, ob
+ich schon die Klausurzulassung erreicht habe. +
+Akzeptanzkriterium: Am Ende zeigt AUAS Statistik über erreichte Punkte.
 
-- Als Student möchte ich meine Zustand-Punkte ansehen, weil ich wissen möchte, ob
-ich schon die Klausurzulassung erreicht habe.
 
--- Am Ende ist der Statistik von Punkte sichtbar auf AUAS
+5. Als Korektor möchte ich das Feedback meiner Bewertung kommentieren, weil ich
+dem Studierenden etwas erläutern will. +
+Akzeptanzkriterium: Am Ende gibt den Kommentar für alle sichtbar sein
 
-- Als Korektor möchte ich das Feedback meiner Bewertung kommentieren, weil ich
-dem Studierenden etwas erläutern will.
+6. Als Studierende möchte ich die Umfrage über Übungsgruppe schicken, weil ich
+die Qualität der Übungsgruppe verbessern wird. +
+Akzeptanzkriterium: Am Ende gibt es eine veröffentliche Umfrage für Studierende, die sie Feedback
+schicken können
 
--- Am Ende gibt den Kommentar für alle sichtbar sein
+7. Als Organisator möchte ich alle Korektoren nach "Wöchentliche Stunden"
+zugeordnet, weil ich wissen möchte, wer zu viel oder zu wenig arbeiten muss. +
+Akzeptanzkriterium: Am Ende werden alle Korektoren nach "Wöchentliche Stunden" zugeordnet.
 
-- Als Studierende möchte ich die Umfrage über Übungsgruppe schicken, weil ich
-die Qualität der Übungsgruppe verbessern wird.
+8. Als Admin möchte ich die Bewertung über Übungsgruppe als auch den Korrektoren
+ansehen. +
+Akzeptanzkriterium: Am Ende muss die Bewertung über Übungsgruppe sichtbar sein
 
--- Am Ende gibt es eine veröffentliche Umfrage für Studierende, die sie Feedback
-schicken können.
+9. Als Student möchte ich die Möglichkeit haben, direkt über AUAS ein zuvor nicht-bestandenes Blatt
+neu einzureichen. So bräuchte ich das Blatt nicht über Email an Korrektor schicken. +
+Akzeptanzkriterium: Am Ende gibt es ein Button, mit dem Studenten neueinreichen können.
 
-- Als Organisator möchte ich alle Korektoren nach "Wöchentliche Stunden"
-zugeordnet, weil ich wissen möchte, wer zu viel oder zu wenig arbeiten muss.
-
--- Am Ende werden alle Korektoren nach "Wöchentliche Stunden" zugeordnet.
-
-- Als Admin möchte ich die Bewertung über Übungsgruppe als auch den Korrektoren
-ansehen.
-
--- Am Ende muss die Bewertung über Übungsgruppe sichtbar sein
-
-- Als Student möchte ich ein Übungsblatt, die nicht bestanden hat, neueinreichen,
-weil ich noch einmal einreichen dürfen
-
--- Am Ende gibt es noch ein Button, mit der die Studenten neueinreichen können.
-
-- Als Organisator möchte ich eine konkrete Statistik der Punkte jedem Student
-ansehen, weil ich die Studenten abschätzen will
-
--- Am Ende gibt es ein Button "Statistik" von Student, damit man die Punkte von
-ihm ansehen.
+10. Als Organisator möchte ich eine konkrete Statistik über erreichte Punkte jedes Studenten,
+da ich die Studenten evaluieren möchte. +
+Akzeptanzkriterium: Am Ende gibt es ein Button "Statistik", wo man die erreichten Punkte eines Studenten sehen kann.

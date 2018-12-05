@@ -1,17 +1,23 @@
-## User Case
-### Anlegen eines Übungsblatts mit n Aufgaben
-Hauptdarsteller : Organisator +
-Das betreffende System : Das System von der Abgabe an der HHU +
-Zweck : Die Übungsbätter kann verfügbar sein und die Student kann die Übung abgeben. +
+## Use Case
 
-#### Ablauf :
-Angenommen die Organisator ist bereits eingeloggt: +
-1. Der Organisator sieht in der Übersicht, ob die Übungsblatt schon verfügbar sind. +
-2. Der Organisator klickt auf den Button "neues Übungsbaltt". +
-3. Er füllt das leere Box aus. +
-4. Er errstellt Veröffentlichungsdatum. +
+|===
+|Name |Anlegen eines Übungsblatts mit n Aufgaben
+|Aktor |Organisator +
+|Das betreffende System |Das Abgabe System der HHU +
+|Zweck |Übungsbätter werden freigeschaltet und Studenten können
+Übungsblätter abgeben +
+
+|Ablauf |
+Angenommen der Organisator ist bereits eingeloggt: +
+
+1. Der Organisator sieht in der Übersicht, ob das Übungsblatt schon freigeschaltet ist. +
+2. Der Organisator klickt auf den Button "neues Übungsblatt". +
+3. Er füllt die leere Box aus. +
+4. Er bestimmt das Datum der Freischaltung. +
 5. Er klickt auf den Button "Übungsblatt speichern". +
-6. Das System zeigt die Übungsblatt an +
-7. Er kommt in der Übungsblatt rein. +
+6. Das System zeigt das Übungsblatt an. +
+7. Er kommt in das Übungsblatt rein. +
 8. Er fügt die n Aufgaben hinzu. +
-9. Das System macht die Übungblatt verfügbar.
+9. Das System macht das Übungblatt für Studenten verfügbar.
+
+|===

@@ -1,69 +1,73 @@
-.Toru Rusch(20)
+.Toru Rusch
 |===
 |Name |Hintergrund |Ziel
 
 a|image::Toru Rusch.jpg[float=center]
-Toru Rusch(20)
+Toru Rusch (20)
 
-|Er studiert Informatik im zweisten Semester an der HHU. Als Kind möchte er als Sortware-Entwickler werden.
+|Er studiert Informatik im zweiten Semester an der HHU. Schon als Kind wollte er Sortware-Entwickler werden.
 Er hat eine besondere Leidenschaft für Java.
-|Jede Woche muss er die Übungsblätter abgeben. Aber findet er bisschen langsam. Er möchte, dass die Webseite schneller laufen kann.
+|Jede Woche muss er Übungsblätter abgeben und findet das System zu langsam. Er wüscht sich, dass die Webseite schneller laufen würde.
 
 |===
 
-.Guilia Salla(25)
+.Guilia Salla
 |===
 |Name |Hintergrund |Ziel
 
 a|image:Guilia Salla.jpg[float=center]
-Guilia Salla(25)
+Guilia Salla (25)
 |Sie ist Studentin in der Richtung Informatik an der HHU.
 Sie mag alle schöne Sachen.
-Sie möchte in der Zukunft Web-Entwickler werden.
-|Jede Woche muss sie auch die Übungsblätter abgeben. Sie findet, dass die Schnittstelle von der Webseite nicht so schön aussieht.
-Sie wünsche sich die Webseite, die schöner werden kann.
+Sie möchte in der Zukunft Web-Entwicklerin werden.
+|Jede Woche muss sie Übungsblätter abgeben und findet, dass das User-Interface der Webseite nicht so schön aussieht.
+Sie wünschte sich eine schönere Webseite.
 |===
 
-.Rula Eckel(26)
+.Rula Eckel
 |===
 |Name |Hintergrund |Ziel
 
 a|image:Rula Eckel.jpg[float=center]
-Rula Eckel(26)
-|Sie studiert Master in der Richtung Informatik an der HHU. Neben dem Studium sind Sie auch Korrektor beim Modul Theorie-Informatik.
-|Jede Woche hat sie 15 Stunden für Korrektor. Sie möchte Ordner haben, wo sie und andere Korrektoren chatten können.
+Rula Eckel (26)
+|Sie studiert Master in der Richtung Informatik an der HHU. Neben dem Studium ist sie auch Korrektorin für das Modul Theoretische Informatik.
+|Jede Woche braucht sie 15 Stunden um die Übungsblätter zu korrigieren. Sie möchte die Möglichkeit haben, im System mit anderen Korrektoren
+chatten zu können.
 
 |===
 
-.Valerian Daum(24)
+.Valerian Daum
 |===
 |Name |Hintergrund |Ziel
 
 a|image:Valerian Daum.jpg[float=center]
-Valerian Daum(24)
-|Er ist ein Student an der HHU. Er nimmt gerne an vielen Aktivitäten teil. Außerdem ist er einen guten Korrektor beim Modul Programmierung.
-|Also möchte er die Funktion Merken in der Übung haben. Dann braucht er nicht so viele Bewertungen zu schreiben und kann er Zeit sparen.
+Valerian Daum (24)
+|Er ist ein Student der HHU. Er nimmt gerne an vielen Aktivitäten teil. Außerdem ist er ein guter Korrektor für das Modul Programmierung.
+|Er möchte die Möglichkeit haben, seine Korrektur direkt in die Abgabe des Studenten zu schreiben.
+So bräuchte er bei der Korrektur nicht immer die Zeile angeben, wo sich ein Fehler befindet und würde
+dadurch Zeit sparen.
 
 |===
 
-.Marcell Borrmann(24)
+.Marcell Borrmann
 |===
 |Name |Hintergrund |Ziel
 
 a|image:Marcell Borrmann.jpg[float=center]
-Marcell Borrmann(24)
-|Er studiert als Doktor an der HHU. Er hat fast keine Zeit für anderen Aktivitäten, weil nebem Studium er ein Organisator im Fach Informatik ist.
-|Er findet, dass er zu viele unwichtige Sache(z.B Teilen die Aufgabe ... ) machen muss. Er wünsche, dass die unwichtige Sachen automatisch laufen können.
+Marcell Borrmann (24)
+|Er studiert als Doktor an der HHU. Weil er neben dem Studium auch Organisator im Fach Informatik ist,
+hat er fast keine Zeit für andere Aktivitäten.
+|Er findet, dass er zu viele unwichtigen Sachen (z.B Verteilen der Aufgaben ... ) machen muss. Er wünscht sich, dass unwichtige Sachen automatisch gemacht werden könnten.
 
 |===
 
-.Secer Dettmer(24)
+.Secer Dettmer
 |===
 |Name |Hintergrund |Ziel
 
 a|image:Secer Dettmer.jpg[float=center]
-Secer Dettmer(24)
-|Er ist ein Doktor. Er arbeitet auch im Siemens. Außerdem ist er einen Organisator an der HHU.
-|Also findet er, dass es zu viele Knopfe für ihn gibt. Er wünsche, dass es weniger sein können.
+Secer Dettmer (24)
+|Er ist ein Doktor. Er arbeitet auch im Siemens. Außerdem ist er ein Organisator an der HHU.
+|Er denkt, dass das System zu viele Knöpfe hat. Er wünscht sich, dass es weniger wären.
 
 |===

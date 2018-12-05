@@ -1,111 +1,49 @@
-.Sarah Baldi
-|===
-|Name |Story|Akzeptanzkriterium
+## User Stories
 
-|Sarah Baldi (22)
-image:student3.jpg["bu.edu"]
-|"Da ich als Studentin viel Arbeit in meine Übungsbätter investiere, wäre eine
-Bestätigung der Abgabe für mich sehr wichtig."
-|Studenten bekommen eine Benachrichtigung wenn Sie ein Blatt abgeben.
-|===
+1. "Da ich als Studentin viel Arbeit in meine Übungsbätter investiere, wäre eine
+Bestätigung der Abgabe für mich sehr wichtig." +
+Akzeptanzkriterium: Am Ende bekommen Studenten eine Benachrichtigung/Bestätigung wenn Sie ein Blatt
+erfolgreich abgegeben haben.
 
-.Tom Müller
-|===
-|Name |Story|Akzeptanzkriterium
+2. Da ich normalerweise nur so viele Übungsbätter bearbeite wie ich Punke
+zum erreichen der Zulassung brauche, wünsche ich mir ein Einblick in meine
+bisher erreichten, aufsummierten Punkte. +
+Akzeptanzkriterium: Am Ende können die Studenten die aufsummierte Punktezahl einsehen.
 
-|Tom Müller (21)
-image:one-student.jpg["www.nssi.com"]
-|Da ich normalerweise nur so viele Übungsbätter bearbeite wie ich Punke
-zum erreichen der Zulassung brauche, wünsche ich mir ein Feld wo die
-erreichte Punkte aufsummiert werden.
-|Am Ende können die Studenten die aufsummierte Punktezahl einsehen.
-|===
+3. Als Korrektor ist mir wichtig, dass ich über die Übungsbätter eine gute
+Übersicht habe, so dass ich meine Arbeit organisierter machen kann. +
+Akzeptanzkriterium: Das neue System ist übersichtlich und kann einfach bedient werden.
 
-.Franco Milic
-|===
-|Name |Story|Akzeptanzkriterium
+4. Als Korrektor wünsche ich mir ein System wo ich meinen Fortschritt bei
+der Korrektur verfolgen kann. So kann ich meine Zeit besser einplanen. +
+Akzeptanzkriterium: Korrektoren bekommen den Fortschritt bei der Korrektur angezeigt.
 
-|Franco Milic (25)
-image:student.jpg["www.vct.org"]
-|Als Korrektor ist mir wichtig, dass ich über die Übungsbätter eine gute
-Übersicht habe, so dass ich meine Arbeit organisierter machen kann.
-|Das neue System ist übersichtlich und kann einfach bedient werden.
-|===
+5. Als Organisatorin interessiert mich der Fortschritt der Studierenden bei der
+Bearbeitung der Übungsblätter. Statistiken aus diesem Bereich wären
+für mich eine Große hilfe. +
+Akzeptanzkriterium: Organisatoren können den Fortschritt der Studenten durch Statistiken verfolgen.
 
-.Sebastian Kangler
-|===
-|Name |Story|Akzeptanzkriterium
-
-|Sebastian Kangler (23)
-image:korrektor2.jpg["www.facultyfocus.com"]
-|Als Korrektor wünsche ich mir ein übersichtliches System meinen Fortschritt bei
-der Korrektur verfolgen kann. So kann ich meine Zeit besser einplanen.
-|Korrektoren bekommen den Fortschritt bei der Korrektur angezeigt.
-|===
-
-.Vanessa Pfaffenzeller
-|===
-|Name |Story|Akzeptanzkriterium
-
-|Vanessa Pfaffenzeller (27)
-image:it-student.jpg["Noobpreneur.com"]
-|Für uns Organisatoren ist es wichtig, dass Übungsbätter automatisch und fair
-auf Korrektoren verteilt werden. Das erspart uns eine Menge Arbeit.
-|Das System bietet die Möglichkeit an, die abgegebenen Übungsbätter automatisch
+6. Für uns Organisatoren ist es wichtig, dass Übungsbätter automatisch und fair
+auf Korrektoren verteilt werden. Das erspart uns eine Menge Arbeit. +
+Akzeptanzkriterium: Das System bietet die Möglichkeit an, die abgegebenen Übungsbätter automatisch
 und fair den Korrektoren zuzuteilen.
-|===
 
-.Oliver Mertens
-|===
-|Name |Story|Akzeptanzkriterium
-
-|Oliver Mertens (28)
-image:leiter.jpg["www.cquedu.au"]
-|Als Organisator interessiert mich der Fortschritt der Studierenden bei der
-Bearbeitung der Übungsblätter. Einige Statistiken wären auf diesem Bereich wären
-für mich eine Große hilfe.
-|Organisatoren können den Fortschritt der Studenten mit Statistiken verfolgen.
-|===
-
-.Oliver Mertens
-|===
-|Name |Story|Akzeptanzkriterium
-
-|Oliver Mertens (28)
-image:leiter.jpg["www.cquedu.au"]
-|Für mich als Organisator ist es zudem wichtig, dass mögliche Nachträgliche Änderungen
+7. Für mich als Organisator ist es zudem wichtig, dass mögliche Nachträgliche Änderungen
 möglich sind bzw. dass wir bei der Planung der Übung flexibel bleiben können. So können
-wir die Anzahl und Schweregrad der Übung den Bedürfnissen der Studierenden anpassen.
-|Am Ende sind nachträgliche ÄÜnderungen der Übungsbätter möglich.
-|===
+wir die Anzahl und Schweregrad der Übung den Bedürfnissen der Studierenden anpassen. +
+Akzeptanzkriterium: Am Ende sind nachträgliche Änderungen der Übungsbätter möglich.
 
-.Sebastian Kangler
-|===
-|Name |Story|Akzeptanzkriterium
+8. Als Student wünsche ich mir ein schöneres User Interface, so dass
+ich das System gerne benutzen werden. +
+Akzeptanzkriterium: Das System hat ein modernes, schönes User Interface.
 
-|Sebastian Kangler (23)
-image:korrektor2.jpg["www.facultyfocus.com"]
-|Als Korrektor wünsche ich mir eine Graphische anzeige meines Fortschritts bei der
-Korrektur der Übungsbätter. So kann ich meine Zeit besser einplanen.
-|===
+9. Da es bei manchen Fächer Bonus Abgaben gibt, wünsche ich mir als Student eine
+Anzeige wo ich die Anzahl der verbleibenen Bonus Abgaben einsehen kann. Das würde
+mir meine Plannung erleichtern. +
+Akzeptanzkriterium: Das System bietet die Möglichkeit die Anzahl der verbleibenen Bonus Abgaben zu sehen.
 
-.Tom Müller
-|===
-|Name |Story|Akzeptanzkriterium
 
-|Tom Müller (21)
-image:one-student.jpg["www.nssi.com"]
-|Als Student wünsche ich mir ein schöneres graphisches Design, so dass ich
-das System gerne benutzen werde.
-|===
-
-.Franco Milic
-|===
-|Name |Story|Akzeptanzkriterium
-
-|Franco Milic (25)
-image:student.jpg["www.vct.org"]
-|Als Korrektor wünsche ich mir eine Möglichkeit direkt im System bei Fragen
-mit Studenten kommunizieren zu können. So bräuchte ich nicht mehr jeder Email die ich
-zu einer Korrektur bekommen das entsprechende
-|===
+10. Als Student wünsche ich mir die Möglichkeit am Ende eines Semesters schnell alle
+abgegebenen Übungsbätter herunterladen zu können. So bräuchte ich nicht
+jedes Blatt einzeln herunterladen. + 
+Akzeptanzkriterium: Das System bietet die Möglichkeit alle abgegebenen Übungsbätter schnell runterzuladen.
